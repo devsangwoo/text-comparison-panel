@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-comparison-panel/static/css/main.1f3a4b2a.css",
+    "main.js": "/text-comparison-panel/static/js/main.80671135.js",
+    "index.html": "/text-comparison-panel/index.html",
+    "main.1f3a4b2a.css.map": "/text-comparison-panel/static/css/main.1f3a4b2a.css.map",
+    "main.80671135.js.map": "/text-comparison-panel/static/js/main.80671135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f3a4b2a.css",
+    "static/js/main.80671135.js"
+  ]
+}
